@@ -1,5 +1,18 @@
+# Setup first remote to server aws
 
-<h1 align='center'>Set up remote server aws cloud</h1>
+```
+chmod 400 tuplekey.pem
+```
+
+```
+ssh -i tuplekey.pem ubuntu@35.84.95.93
+```
+
+
+
+# Set up Docker server aws cloud
+
+To install docker on ubuntu aws cloud make sure you have done live aws cloud server
 
 # When aws cloud already live
 
